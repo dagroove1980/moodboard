@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   description:
     'Curated aesthetic kits — colors, fonts, and visual direction. All in one card. Browse hundreds of design vibes ready to use.',
-  metadataBase: new URL('https://moodboard.supply'),
+  metadataBase: new URL('https://moodboard-supply.vercel.app'),
   openGraph: {
     type: 'website',
     siteName: 'moodboard.supply',
