@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 import { Space_Grotesk, Inter, IBM_Plex_Mono } from 'next/font/google';
-import Script from 'next/script';
 import './globals.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
@@ -32,7 +31,11 @@ export const metadata: Metadata = {
   },
   description:
     'Curated aesthetic kits — colors, fonts, and visual direction. All in one card. Browse hundreds of design vibes ready to use.',
-  metadataBase: new URL('https://moodboard-supply.vercel.app'),
+  metadataBase: new URL(
+    process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : 'https://moodboard-supply.vercel.app'
+  ),
   openGraph: {
     type: 'website',
     siteName: 'moodboard.supply',
@@ -73,13 +76,6 @@ export default function RootLayout({
       <body
         className={`${spaceGrotesk.variable} ${inter.variable} ${ibmPlexMono.variable} antialiased`}
       >
-        {/* Also load via Next.js Script for optimal performance */}
-        <Script
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`}
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />

@@ -1,5 +1,7 @@
 export const SITE_NAME = 'moodboard.supply';
-export const SITE_URL = 'https://moodboard-supply.vercel.app';
+export const SITE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+  : 'https://moodboard-supply.vercel.app';
 export const SITE_DESCRIPTION = 'Curated aesthetic kits — colors, fonts, and visual direction. All in one card.';
 
 export const ALL_TAGS = [
