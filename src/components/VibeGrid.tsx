@@ -3,7 +3,8 @@
 import { useState } from 'react';
 import { Vibe } from '@/types/vibe';
 import { VibeCard } from './VibeCard';
-import { VIBES_PER_PAGE } from '@/lib/constants';
+import { AdSlot } from './AdSlot';
+import { VIBES_PER_PAGE, AD_SLOT_IDS } from '@/lib/constants';
 
 interface VibeGridProps {
   vibes: Vibe[];
@@ -22,10 +23,9 @@ export function VibeGrid({ vibes, initialCount = VIBES_PER_PAGE }: VibeGridProps
           <div key={vibe.id}>
             <VibeCard vibe={vibe} />
             {/* Ad slot every 12 cards */}
-            {(index + 1) % 12 === 0 && index < visibleVibes.length - 1 && (
-              <div className="col-span-full my-6" aria-hidden="true">
-                {/* <!-- Ad Slot: In-Grid --> */}
-                {/* AdSense will be inserted here */}
+            {(index + 1) % 12 === 0 && index < visibleVibes.length - 1 && AD_SLOT_IDS.IN_GRID && (
+              <div className="col-span-full my-6">
+                <AdSlot id={AD_SLOT_IDS.IN_GRID} format="horizontal" />
               </div>
             )}
           </div>

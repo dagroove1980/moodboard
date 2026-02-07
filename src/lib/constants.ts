@@ -121,3 +121,14 @@ export const MOOD_INTROS: Record<string, { title: string; description: string }>
 };
 
 export const VIBES_PER_PAGE = 24;
+
+// AdSense Configuration
+export const ADSENSE_PUBLISHER_ID = 'ca-pub-3452665186406442';
+
+// Ad Slot IDs - Set these in your .env.local file
+// Get these from your AdSense dashboard: Ads > Ad units
+export const AD_SLOT_IDS = {
+  HOMEPAGE_LEADERBOARD: process.env.NEXT_PUBLIC_ADSENSE_HOMEPAGE_SLOT_ID || '',
+  DETAIL_PAGE: process.env.NEXT_PUBLIC_ADSENSE_DETAIL_SLOT_ID || '',
+  IN_GRID: process.env.NEXT_PUBLIC_ADSENSE_INGRID_SLOT_ID || '',
+} as const;

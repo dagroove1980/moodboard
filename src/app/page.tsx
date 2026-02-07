@@ -1,6 +1,8 @@
 import { Suspense } from 'react';
 import { getAllVibes } from '@/lib/vibes';
 import { HomepageContent } from '@/components/HomepageContent';
+import { AdSlot } from '@/components/AdSlot';
+import { AD_SLOT_IDS } from '@/lib/constants';
 
 export default function Home() {
   const vibes = getAllVibes();
@@ -17,10 +19,12 @@ export default function Home() {
         </p>
       </section>
 
-      {/* <!-- Ad Slot: Homepage Leaderboard --> */}
-      <div className="max-w-4xl mx-auto mb-12" aria-hidden="true">
-        {/* AdSense will be inserted here */}
-      </div>
+      {/* Ad Slot: Homepage Leaderboard */}
+      {AD_SLOT_IDS.HOMEPAGE_LEADERBOARD && (
+        <div className="max-w-4xl mx-auto mb-12">
+          <AdSlot id={AD_SLOT_IDS.HOMEPAGE_LEADERBOARD} format="horizontal" />
+        </div>
+      )}
 
       {/* Filter + Grid */}
       <section className="pb-16">

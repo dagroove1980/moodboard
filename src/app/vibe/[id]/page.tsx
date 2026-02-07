@@ -10,6 +10,8 @@ import { ColorSwatch } from '@/components/ColorSwatch';
 import { FontPreview } from '@/components/FontPreview';
 import { ShareButtons } from '@/components/ShareButtons';
 import { SimilarVibes } from '@/components/SimilarVibes';
+import { AdSlot } from '@/components/AdSlot';
+import { AD_SLOT_IDS } from '@/lib/constants';
 import { CopyButton } from './CopyButton';
 
 interface Props {
@@ -206,10 +208,11 @@ export default async function VibePage({ params }: Props) {
         </section>
 
         {/* Ad Slot: Detail Page */}
-        {/* <!-- Ad Slot: Vibe Detail --> */}
-        <div className="mb-16" aria-hidden="true">
-          {/* AdSense will be inserted here */}
-        </div>
+        {AD_SLOT_IDS.DETAIL_PAGE && (
+          <div className="mb-16">
+            <AdSlot id={AD_SLOT_IDS.DETAIL_PAGE} format="horizontal" />
+          </div>
+        )}
 
         {/* Similar Vibes */}
         <SimilarVibes vibes={similar} />
