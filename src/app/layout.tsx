@@ -62,16 +62,17 @@ export default function RootLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
+      </head>
+      <body
+        className={`${spaceGrotesk.variable} ${inter.variable} ${ibmPlexMono.variable} antialiased`}
+      >
+        {/* Also load via Next.js Script for optimal performance */}
         <Script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
-      </head>
-      <body
-        className={`${spaceGrotesk.variable} ${inter.variable} ${ibmPlexMono.variable} antialiased`}
-      >
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
