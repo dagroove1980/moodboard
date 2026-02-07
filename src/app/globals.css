@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #FAFAFA;
+  --color-foreground: #1A1A1A;
+  --color-secondary: #888888;
+  --color-accent: #E63946;
+  --color-card: #FFFFFF;
+  --color-border: #E5E5E5;
+
+  --font-heading: var(--font-space-grotesk);
+  --font-body: var(--font-inter);
+  --font-mono: var(--font-ibm-plex-mono);
+
+  --radius-card: 16px;
+  --radius-pill: 20px;
+
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06), 0 8px 24px rgba(0, 0, 0, 0.04);
+  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.08), 0 16px 40px rgba(0, 0, 0, 0.08);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+  letter-spacing: -0.03em;
+}
+
+code, .font-mono {
+  font-family: var(--font-mono), ui-monospace, monospace;
+}
+
+/* Smooth transitions for interactive elements */
+.transition-lift {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.transition-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+}

@@ -1,0 +1,3512 @@
+[
+  {
+    "id": "desert-calm",
+    "name": "Desert Calm",
+    "aesthetic": "Warm Minimal",
+    "colors": [
+      "#D4A574",
+      "#E8D5B7",
+      "#F5F0E8",
+      "#2C2C2C",
+      "#8B7355"
+    ],
+    "headingFont": {
+      "family": "Playfair Display",
+      "weight": "700",
+      "googleFontsId": "Playfair+Display:wght@700"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Welcome Home",
+      "body": "A space designed for living beautifully."
+    },
+    "tags": [
+      "brand",
+      "interior",
+      "wedding"
+    ],
+    "moods": [
+      "warm",
+      "minimal",
+      "earthy"
+    ],
+    "likes": 2847,
+    "createdAt": "2026-02-06",
+    "featured": true
+  },
+  {
+    "id": "midnight-brutalist",
+    "name": "Midnight Brutalist",
+    "aesthetic": "Dark Industrial",
+    "colors": [
+      "#0D0D0D",
+      "#1A1A2E",
+      "#E94560",
+      "#F5F5F5",
+      "#533483"
+    ],
+    "headingFont": {
+      "family": "Space Grotesk",
+      "weight": "700",
+      "googleFontsId": "Space+Grotesk:wght@700"
+    },
+    "bodyFont": {
+      "family": "IBM Plex Mono",
+      "weight": "400",
+      "googleFontsId": "IBM+Plex+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "Break the Grid",
+      "body": "Design without compromise. Build without fear."
+    },
+    "tags": [
+      "startup",
+      "gaming",
+      "brand"
+    ],
+    "moods": [
+      "dark",
+      "bold",
+      "futuristic"
+    ],
+    "likes": 5234,
+    "createdAt": "2026-02-05",
+    "featured": true
+  },
+  {
+    "id": "coastal-sunrise",
+    "name": "Coastal Sunrise",
+    "aesthetic": "Soft Gradient",
+    "colors": [
+      "#FF6B6B",
+      "#FEC89A",
+      "#FFF3E0",
+      "#4ECDC4",
+      "#2C3E50"
+    ],
+    "headingFont": {
+      "family": "DM Serif Display",
+      "weight": "400",
+      "googleFontsId": "DM+Serif+Display:wght@400"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Chase the Light",
+      "body": "Every sunrise is an invitation to begin again."
+    },
+    "tags": [
+      "blog",
+      "photography",
+      "social media"
+    ],
+    "moods": [
+      "warm",
+      "playful",
+      "organic"
+    ],
+    "likes": 3891,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "noir-elegance",
+    "name": "Noir Elegance",
+    "aesthetic": "Luxury Dark",
+    "colors": [
+      "#1B1B1B",
+      "#C9A96E",
+      "#F7F4EF",
+      "#3D3D3D",
+      "#8C7A5B"
+    ],
+    "headingFont": {
+      "family": "Cormorant Garamond",
+      "weight": "600",
+      "googleFontsId": "Cormorant+Garamond:wght@600"
+    },
+    "bodyFont": {
+      "family": "Raleway",
+      "weight": "400",
+      "googleFontsId": "Raleway:wght@400"
+    },
+    "preview": {
+      "heading": "The Art of Less",
+      "body": "Luxury isn't about excess \u2014 it's about intention."
+    },
+    "tags": [
+      "fashion",
+      "brand",
+      "real estate"
+    ],
+    "moods": [
+      "luxe",
+      "dark",
+      "elegant"
+    ],
+    "likes": 6102,
+    "createdAt": "2026-02-03",
+    "featured": true
+  },
+  {
+    "id": "garden-party",
+    "name": "Garden Party",
+    "aesthetic": "Botanical Fresh",
+    "colors": [
+      "#2D6A4F",
+      "#95D5B2",
+      "#F8F9FA",
+      "#D8F3DC",
+      "#1B4332"
+    ],
+    "headingFont": {
+      "family": "Lora",
+      "weight": "700",
+      "googleFontsId": "Lora:wght@700"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Grow Naturally",
+      "body": "Where roots run deep, beautiful things bloom."
+    },
+    "tags": [
+      "wedding",
+      "caf\u00e9",
+      "interior"
+    ],
+    "moods": [
+      "organic",
+      "earthy",
+      "elegant"
+    ],
+    "likes": 4156,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "neon-tokyo",
+    "name": "Neon Tokyo",
+    "aesthetic": "Cyberpunk Bright",
+    "colors": [
+      "#0F0F0F",
+      "#FF00FF",
+      "#00F5FF",
+      "#1A1A2E",
+      "#FFE600"
+    ],
+    "headingFont": {
+      "family": "Orbitron",
+      "weight": "700",
+      "googleFontsId": "Orbitron:wght@700"
+    },
+    "bodyFont": {
+      "family": "Exo 2",
+      "weight": "400",
+      "googleFontsId": "Exo+2:wght@400"
+    },
+    "preview": {
+      "heading": "Enter the Grid",
+      "body": "The future is neon. The future is now."
+    },
+    "tags": [
+      "gaming",
+      "startup",
+      "social media"
+    ],
+    "moods": [
+      "futuristic",
+      "bold",
+      "dark"
+    ],
+    "likes": 7543,
+    "createdAt": "2026-02-01",
+    "featured": true
+  },
+  {
+    "id": "scandinavian-winter",
+    "name": "Scandinavian Winter",
+    "aesthetic": "Nordic Minimal",
+    "colors": [
+      "#E8E4E1",
+      "#B8C4C2",
+      "#FFFFFF",
+      "#4A4A4A",
+      "#89969F"
+    ],
+    "headingFont": {
+      "family": "Outfit",
+      "weight": "600",
+      "googleFontsId": "Outfit:wght@600"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Simply Perfect",
+      "body": "Beauty in restraint. Clarity in simplicity."
+    },
+    "tags": [
+      "interior",
+      "brand",
+      "blog"
+    ],
+    "moods": [
+      "minimal",
+      "cool",
+      "elegant"
+    ],
+    "likes": 3402,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "sunset-editorial",
+    "name": "Sunset Editorial",
+    "aesthetic": "Magazine Warm",
+    "colors": [
+      "#FF6F61",
+      "#FDB813",
+      "#FEFAF1",
+      "#2B2D42",
+      "#8D99AE"
+    ],
+    "headingFont": {
+      "family": "Fraunces",
+      "weight": "700",
+      "googleFontsId": "Fraunces:wght@700"
+    },
+    "bodyFont": {
+      "family": "Work Sans",
+      "weight": "400",
+      "googleFontsId": "Work+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Tell Your Story",
+      "body": "Words that move. Colors that inspire. Ideas that last."
+    },
+    "tags": [
+      "blog",
+      "fashion",
+      "photography"
+    ],
+    "moods": [
+      "editorial",
+      "warm",
+      "bold"
+    ],
+    "likes": 4789,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "pastel-dream",
+    "name": "Pastel Dream",
+    "aesthetic": "Soft Whimsical",
+    "colors": [
+      "#FFB5E8",
+      "#B5DEFF",
+      "#FFF5BA",
+      "#F3F0FF",
+      "#6C5B7B"
+    ],
+    "headingFont": {
+      "family": "Quicksand",
+      "weight": "700",
+      "googleFontsId": "Quicksand:wght@700"
+    },
+    "bodyFont": {
+      "family": "Nunito",
+      "weight": "400",
+      "googleFontsId": "Nunito:wght@400"
+    },
+    "preview": {
+      "heading": "Dream in Color",
+      "body": "Soft hues for creative souls and gentle hearts."
+    },
+    "tags": [
+      "education",
+      "social media",
+      "wedding"
+    ],
+    "moods": [
+      "playful",
+      "warm",
+      "organic"
+    ],
+    "likes": 5678,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "concrete-jungle",
+    "name": "Concrete Jungle",
+    "aesthetic": "Urban Monochrome",
+    "colors": [
+      "#2D2D2D",
+      "#595959",
+      "#BFBFBF",
+      "#F2F2F2",
+      "#FF4444"
+    ],
+    "headingFont": {
+      "family": "Bebas Neue",
+      "weight": "400",
+      "googleFontsId": "Bebas+Neue"
+    },
+    "bodyFont": {
+      "family": "Roboto",
+      "weight": "400",
+      "googleFontsId": "Roboto:wght@400"
+    },
+    "preview": {
+      "heading": "MAKE SOME NOISE",
+      "body": "Raw. Real. Unfiltered. Welcome to the concrete jungle."
+    },
+    "tags": [
+      "brand",
+      "startup",
+      "real estate"
+    ],
+    "moods": [
+      "bold",
+      "dark",
+      "editorial"
+    ],
+    "likes": 3215,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "rosewood-manor",
+    "name": "Rosewood Manor",
+    "aesthetic": "Victorian Blush",
+    "colors": [
+      "#8B2252",
+      "#D4A0A0",
+      "#FFF5F5",
+      "#4A1A2E",
+      "#E8C4C4"
+    ],
+    "headingFont": {
+      "family": "EB Garamond",
+      "weight": "700",
+      "googleFontsId": "EB+Garamond:wght@700"
+    },
+    "bodyFont": {
+      "family": "Lato",
+      "weight": "400",
+      "googleFontsId": "Lato:wght@400"
+    },
+    "preview": {
+      "heading": "Timeless Grace",
+      "body": "Where heritage meets modern sensibility."
+    },
+    "tags": [
+      "wedding",
+      "interior",
+      "fashion"
+    ],
+    "moods": [
+      "elegant",
+      "warm",
+      "luxe"
+    ],
+    "likes": 4521,
+    "createdAt": "2026-02-06",
+    "featured": true
+  },
+  {
+    "id": "arctic-mono",
+    "name": "Arctic Mono",
+    "aesthetic": "Ice Minimal",
+    "colors": [
+      "#F0F4F8",
+      "#D9E2EC",
+      "#FFFFFF",
+      "#334E68",
+      "#627D98"
+    ],
+    "headingFont": {
+      "family": "Sora",
+      "weight": "600",
+      "googleFontsId": "Sora:wght@600"
+    },
+    "bodyFont": {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "googleFontsId": "JetBrains+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "Clean Code",
+      "body": "Precision engineered for clarity."
+    },
+    "tags": [
+      "startup",
+      "brand",
+      "education"
+    ],
+    "moods": [
+      "minimal",
+      "cool",
+      "futuristic"
+    ],
+    "likes": 3876,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "terracotta-sun",
+    "name": "Terracotta Sun",
+    "aesthetic": "Mediterranean Warm",
+    "colors": [
+      "#C75B39",
+      "#E8A87C",
+      "#F9F1E9",
+      "#41291D",
+      "#D4A574"
+    ],
+    "headingFont": {
+      "family": "Libre Baskerville",
+      "weight": "700",
+      "googleFontsId": "Libre+Baskerville:wght@700"
+    },
+    "bodyFont": {
+      "family": "Karla",
+      "weight": "400",
+      "googleFontsId": "Karla:wght@400"
+    },
+    "preview": {
+      "heading": "Sun-Baked",
+      "body": "Warmth absorbed from ancient stone walls."
+    },
+    "tags": [
+      "caf\u00e9",
+      "interior",
+      "real estate"
+    ],
+    "moods": [
+      "earthy",
+      "warm",
+      "organic"
+    ],
+    "likes": 3654,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "sapphire-night",
+    "name": "Sapphire Night",
+    "aesthetic": "Jewel Dark",
+    "colors": [
+      "#0A1628",
+      "#1B3A5C",
+      "#4A90D9",
+      "#F0F4FF",
+      "#8FBCEF"
+    ],
+    "headingFont": {
+      "family": "Instrument Serif",
+      "weight": "400",
+      "googleFontsId": "Instrument+Serif"
+    },
+    "bodyFont": {
+      "family": "Albert Sans",
+      "weight": "400",
+      "googleFontsId": "Albert+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Deep Clarity",
+      "body": "Precious insight found in midnight blue."
+    },
+    "tags": [
+      "brand",
+      "fashion",
+      "real estate"
+    ],
+    "moods": [
+      "luxe",
+      "dark",
+      "elegant"
+    ],
+    "likes": 5892,
+    "createdAt": "2026-02-03",
+    "featured": true
+  },
+  {
+    "id": "matcha-zen",
+    "name": "Matcha Zen",
+    "aesthetic": "Japanese Calm",
+    "colors": [
+      "#4A7C59",
+      "#8DB48E",
+      "#F5F5F0",
+      "#2C3E2C",
+      "#D4E2D4"
+    ],
+    "headingFont": {
+      "family": "Plus Jakarta Sans",
+      "weight": "700",
+      "googleFontsId": "Plus+Jakarta+Sans:wght@700"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Find Balance",
+      "body": "Harmony brewed one cup at a time."
+    },
+    "tags": [
+      "caf\u00e9",
+      "brand",
+      "interior"
+    ],
+    "moods": [
+      "minimal",
+      "organic",
+      "cool"
+    ],
+    "likes": 4234,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "bubblegum-pop",
+    "name": "Bubblegum Pop",
+    "aesthetic": "Y2K Bright",
+    "colors": [
+      "#FF69B4",
+      "#FF1493",
+      "#FFF0F5",
+      "#9B30FF",
+      "#FFD700"
+    ],
+    "headingFont": {
+      "family": "Poppins",
+      "weight": "700",
+      "googleFontsId": "Poppins:wght@700"
+    },
+    "bodyFont": {
+      "family": "Nunito",
+      "weight": "400",
+      "googleFontsId": "Nunito:wght@400"
+    },
+    "preview": {
+      "heading": "Pop Off",
+      "body": "Bold, bright, and unapologetically fun."
+    },
+    "tags": [
+      "social media",
+      "fashion",
+      "gaming"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "retro"
+    ],
+    "likes": 6543,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "cedar-lodge",
+    "name": "Cedar Lodge",
+    "aesthetic": "Cabin Rustic",
+    "colors": [
+      "#5C3317",
+      "#8B6914",
+      "#F5EDDA",
+      "#2C1A0E",
+      "#C4A35A"
+    ],
+    "headingFont": {
+      "family": "Bitter",
+      "weight": "700",
+      "googleFontsId": "Bitter:wght@700"
+    },
+    "bodyFont": {
+      "family": "Open Sans",
+      "weight": "400",
+      "googleFontsId": "Open+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Rest Easy",
+      "body": "Retreat to where the pines whisper."
+    },
+    "tags": [
+      "interior",
+      "real estate",
+      "blog"
+    ],
+    "moods": [
+      "earthy",
+      "warm",
+      "organic"
+    ],
+    "likes": 3102,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "neon-coral",
+    "name": "Neon Coral",
+    "aesthetic": "Tropical Punch",
+    "colors": [
+      "#FF6F61",
+      "#FF4081",
+      "#FFF3E8",
+      "#1A1A2E",
+      "#FF8A65"
+    ],
+    "headingFont": {
+      "family": "Montserrat",
+      "weight": "700",
+      "googleFontsId": "Montserrat:wght@700"
+    },
+    "bodyFont": {
+      "family": "Rubik",
+      "weight": "400",
+      "googleFontsId": "Rubik:wght@400"
+    },
+    "preview": {
+      "heading": "Stand Out",
+      "body": "Colors that refuse to be ignored."
+    },
+    "tags": [
+      "social media",
+      "brand",
+      "fashion"
+    ],
+    "moods": [
+      "bold",
+      "playful",
+      "warm"
+    ],
+    "likes": 5432,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "ivory-lace",
+    "name": "Ivory Lace",
+    "aesthetic": "Bridal Soft",
+    "colors": [
+      "#FFFFF0",
+      "#FAF0E6",
+      "#F5F5DC",
+      "#8B8378",
+      "#3D3631"
+    ],
+    "headingFont": {
+      "family": "Cormorant Garamond",
+      "weight": "600",
+      "googleFontsId": "Cormorant+Garamond:wght@600"
+    },
+    "bodyFont": {
+      "family": "Mulish",
+      "weight": "400",
+      "googleFontsId": "Mulish:wght@400"
+    },
+    "preview": {
+      "heading": "Say I Do",
+      "body": "Delicate details for your perfect day."
+    },
+    "tags": [
+      "wedding",
+      "photography",
+      "blog"
+    ],
+    "moods": [
+      "elegant",
+      "warm",
+      "minimal"
+    ],
+    "likes": 4876,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "vaporwave-dream",
+    "name": "Vaporwave Dream",
+    "aesthetic": "Retro Digital",
+    "colors": [
+      "#1A0A2E",
+      "#FF71CE",
+      "#01CDFE",
+      "#B967FF",
+      "#FFFB96"
+    ],
+    "headingFont": {
+      "family": "Oswald",
+      "weight": "700",
+      "googleFontsId": "Oswald:wght@700"
+    },
+    "bodyFont": {
+      "family": "Fira Code",
+      "weight": "400",
+      "googleFontsId": "Fira+Code:wght@400"
+    },
+    "preview": {
+      "heading": "Aesthetic Mode",
+      "body": "Nostalgia rendered in digital pastel."
+    },
+    "tags": [
+      "gaming",
+      "social media",
+      "blog"
+    ],
+    "moods": [
+      "retro",
+      "futuristic",
+      "playful"
+    ],
+    "likes": 7102,
+    "createdAt": "2026-01-28",
+    "featured": true
+  },
+  {
+    "id": "slate-corporate",
+    "name": "Slate Corporate",
+    "aesthetic": "Business Clean",
+    "colors": [
+      "#2C3E50",
+      "#34495E",
+      "#ECF0F1",
+      "#FFFFFF",
+      "#3498DB"
+    ],
+    "headingFont": {
+      "family": "Manrope",
+      "weight": "700",
+      "googleFontsId": "Manrope:wght@700"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Scale Fast",
+      "body": "Enterprise-grade design for ambitious teams."
+    },
+    "tags": [
+      "startup",
+      "brand",
+      "education"
+    ],
+    "moods": [
+      "minimal",
+      "cool",
+      "bold"
+    ],
+    "likes": 3567,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "golden-hour",
+    "name": "Golden Hour",
+    "aesthetic": "Warm Photography",
+    "colors": [
+      "#DAA520",
+      "#F4C430",
+      "#FFF8DC",
+      "#8B6914",
+      "#2C1A0E"
+    ],
+    "headingFont": {
+      "family": "Young Serif",
+      "weight": "400",
+      "googleFontsId": "Young+Serif"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Magic Light",
+      "body": "That perfect glow before the sun sets."
+    },
+    "tags": [
+      "photography",
+      "blog",
+      "wedding"
+    ],
+    "moods": [
+      "warm",
+      "editorial",
+      "organic"
+    ],
+    "likes": 5234,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "lavender-haze",
+    "name": "Lavender Haze",
+    "aesthetic": "Purple Soft",
+    "colors": [
+      "#9B72CF",
+      "#C9A7EB",
+      "#F3ECFF",
+      "#FFFFFF",
+      "#5B3A8C"
+    ],
+    "headingFont": {
+      "family": "Quicksand",
+      "weight": "700",
+      "googleFontsId": "Quicksand:wght@700"
+    },
+    "bodyFont": {
+      "family": "Cabin",
+      "weight": "400",
+      "googleFontsId": "Cabin:wght@400"
+    },
+    "preview": {
+      "heading": "Soft Focus",
+      "body": "A gentle blur of purple possibility."
+    },
+    "tags": [
+      "wedding",
+      "social media",
+      "blog"
+    ],
+    "moods": [
+      "elegant",
+      "playful",
+      "cool"
+    ],
+    "likes": 4321,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "rust-revival",
+    "name": "Rust Revival",
+    "aesthetic": "Industrial Warm",
+    "colors": [
+      "#8B3A3A",
+      "#B7410E",
+      "#F5E6D3",
+      "#2C1A0E",
+      "#D4874D"
+    ],
+    "headingFont": {
+      "family": "Archivo Black",
+      "weight": "400",
+      "googleFontsId": "Archivo+Black"
+    },
+    "bodyFont": {
+      "family": "Roboto",
+      "weight": "400",
+      "googleFontsId": "Roboto:wght@400"
+    },
+    "preview": {
+      "heading": "Built to Last",
+      "body": "Beauty found in weathered steel and honest work."
+    },
+    "tags": [
+      "brand",
+      "real estate",
+      "interior"
+    ],
+    "moods": [
+      "bold",
+      "earthy",
+      "retro"
+    ],
+    "likes": 2987,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "mint-fresh",
+    "name": "Mint Fresh",
+    "aesthetic": "Clean Green",
+    "colors": [
+      "#98FFD8",
+      "#D0FFF0",
+      "#FFFFFF",
+      "#00C9A7",
+      "#1A4D3E"
+    ],
+    "headingFont": {
+      "family": "Plus Jakarta Sans",
+      "weight": "700",
+      "googleFontsId": "Plus+Jakarta+Sans:wght@700"
+    },
+    "bodyFont": {
+      "family": "Figtree",
+      "weight": "400",
+      "googleFontsId": "Figtree:wght@400"
+    },
+    "preview": {
+      "heading": "Fresh Start",
+      "body": "Crisp, clean, ready for anything."
+    },
+    "tags": [
+      "startup",
+      "education",
+      "brand"
+    ],
+    "moods": [
+      "cool",
+      "minimal",
+      "playful"
+    ],
+    "likes": 3789,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "charcoal-ember",
+    "name": "Charcoal Ember",
+    "aesthetic": "Smoked Dark",
+    "colors": [
+      "#1C1C1C",
+      "#3D3D3D",
+      "#F5F5F5",
+      "#FF5722",
+      "#FF8A65"
+    ],
+    "headingFont": {
+      "family": "Bebas Neue",
+      "weight": "400",
+      "googleFontsId": "Bebas+Neue"
+    },
+    "bodyFont": {
+      "family": "Work Sans",
+      "weight": "400",
+      "googleFontsId": "Work+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "FIRE WITHIN",
+      "body": "Smoldering intensity beneath a cool exterior."
+    },
+    "tags": [
+      "gaming",
+      "brand",
+      "startup"
+    ],
+    "moods": [
+      "dark",
+      "bold",
+      "editorial"
+    ],
+    "likes": 4102,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "peach-blossom",
+    "name": "Peach Blossom",
+    "aesthetic": "Spring Blush",
+    "colors": [
+      "#FFDAB9",
+      "#FFB7A5",
+      "#FFF5F0",
+      "#8B5742",
+      "#E8967D"
+    ],
+    "headingFont": {
+      "family": "DM Serif Display",
+      "weight": "400",
+      "googleFontsId": "DM+Serif+Display:wght@400"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "In Bloom",
+      "body": "Petals unfurling in the spring light."
+    },
+    "tags": [
+      "wedding",
+      "photography",
+      "social media"
+    ],
+    "moods": [
+      "warm",
+      "elegant",
+      "organic"
+    ],
+    "likes": 5123,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "cyber-pulse",
+    "name": "Cyber Pulse",
+    "aesthetic": "Tech Neon",
+    "colors": [
+      "#0A0A0A",
+      "#00FF41",
+      "#39FF14",
+      "#1A1A2E",
+      "#00B32D"
+    ],
+    "headingFont": {
+      "family": "Space Grotesk",
+      "weight": "700",
+      "googleFontsId": "Space+Grotesk:wght@700"
+    },
+    "bodyFont": {
+      "family": "Space Mono",
+      "weight": "400",
+      "googleFontsId": "Space+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "System Online",
+      "body": "Connected. Encrypted. Ready to launch."
+    },
+    "tags": [
+      "gaming",
+      "startup",
+      "brand"
+    ],
+    "moods": [
+      "futuristic",
+      "dark",
+      "bold"
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "sand-dune",
+    "name": "Sand Dune",
+    "aesthetic": "Desert Neutral",
+    "colors": [
+      "#C2B280",
+      "#D9C9A5",
+      "#F5F0E8",
+      "#6B5B45",
+      "#2C241A"
+    ],
+    "headingFont": {
+      "family": "Source Serif 4",
+      "weight": "700",
+      "googleFontsId": "Source+Serif+4:wght@700"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Endless Vista",
+      "body": "Miles of golden sand stretching to the horizon."
+    },
+    "tags": [
+      "interior",
+      "photography",
+      "real estate"
+    ],
+    "moods": [
+      "earthy",
+      "minimal",
+      "warm"
+    ],
+    "likes": 3456,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "electric-blue",
+    "name": "Electric Blue",
+    "aesthetic": "Voltage Bright",
+    "colors": [
+      "#0066FF",
+      "#00BFFF",
+      "#E8F4FF",
+      "#FFFFFF",
+      "#003380"
+    ],
+    "headingFont": {
+      "family": "Montserrat",
+      "weight": "700",
+      "googleFontsId": "Montserrat:wght@700"
+    },
+    "bodyFont": {
+      "family": "Rubik",
+      "weight": "400",
+      "googleFontsId": "Rubik:wght@400"
+    },
+    "preview": {
+      "heading": "Power Up",
+      "body": "Electrifying energy in every pixel."
+    },
+    "tags": [
+      "startup",
+      "gaming",
+      "social media"
+    ],
+    "moods": [
+      "bold",
+      "futuristic",
+      "cool"
+    ],
+    "likes": 5678,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "olive-grove",
+    "name": "Olive Grove",
+    "aesthetic": "Mediterranean Earth",
+    "colors": [
+      "#708238",
+      "#A0B060",
+      "#F5F2E8",
+      "#3D4424",
+      "#C4B896"
+    ],
+    "headingFont": {
+      "family": "Vollkorn",
+      "weight": "700",
+      "googleFontsId": "Vollkorn:wght@700"
+    },
+    "bodyFont": {
+      "family": "Open Sans",
+      "weight": "400",
+      "googleFontsId": "Open+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Ancient Roots",
+      "body": "Timeless beauty beneath the olive trees."
+    },
+    "tags": [
+      "caf\u00e9",
+      "interior",
+      "wedding"
+    ],
+    "moods": [
+      "organic",
+      "earthy",
+      "elegant"
+    ],
+    "likes": 3234,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "blush-romance",
+    "name": "Blush Romance",
+    "aesthetic": "Soft Pink",
+    "colors": [
+      "#FFB6C1",
+      "#FFC0CB",
+      "#FFF5F7",
+      "#FF69B4",
+      "#4A2A35"
+    ],
+    "headingFont": {
+      "family": "Playfair Display",
+      "weight": "700",
+      "googleFontsId": "Playfair+Display:wght@700"
+    },
+    "bodyFont": {
+      "family": "Lato",
+      "weight": "400",
+      "googleFontsId": "Lato:wght@400"
+    },
+    "preview": {
+      "heading": "Forever Yours",
+      "body": "Love letters written in rose and gold."
+    },
+    "tags": [
+      "wedding",
+      "fashion",
+      "photography"
+    ],
+    "moods": [
+      "elegant",
+      "warm",
+      "playful"
+    ],
+    "likes": 5876,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "midnight-ocean",
+    "name": "Midnight Ocean",
+    "aesthetic": "Deep Sea",
+    "colors": [
+      "#001F3F",
+      "#003366",
+      "#6699CC",
+      "#E8F0FE",
+      "#0A2647"
+    ],
+    "headingFont": {
+      "family": "Spectral",
+      "weight": "700",
+      "googleFontsId": "Spectral:wght@700"
+    },
+    "bodyFont": {
+      "family": "Karla",
+      "weight": "400",
+      "googleFontsId": "Karla:wght@400"
+    },
+    "preview": {
+      "heading": "Dive Deep",
+      "body": "Uncharted depths hold the greatest treasures."
+    },
+    "tags": [
+      "brand",
+      "photography",
+      "blog"
+    ],
+    "moods": [
+      "dark",
+      "cool",
+      "editorial"
+    ],
+    "likes": 4567,
+    "createdAt": "2026-01-15",
+    "featured": false
+  },
+  {
+    "id": "studio-54",
+    "name": "Studio 54",
+    "aesthetic": "Disco Retro",
+    "colors": [
+      "#FFD700",
+      "#FF1493",
+      "#1A0A2E",
+      "#C0C0C0",
+      "#FFFFFF"
+    ],
+    "headingFont": {
+      "family": "Oswald",
+      "weight": "700",
+      "googleFontsId": "Oswald:wght@700"
+    },
+    "bodyFont": {
+      "family": "Exo 2",
+      "weight": "400",
+      "googleFontsId": "Exo+2:wght@400"
+    },
+    "preview": {
+      "heading": "Dance Floor",
+      "body": "Glitter, groove, and pure golden energy."
+    },
+    "tags": [
+      "social media",
+      "fashion",
+      "brand"
+    ],
+    "moods": [
+      "retro",
+      "bold",
+      "playful"
+    ],
+    "likes": 6234,
+    "createdAt": "2026-01-14",
+    "featured": true
+  },
+  {
+    "id": "sage-whisper",
+    "name": "Sage Whisper",
+    "aesthetic": "Herbal Soft",
+    "colors": [
+      "#9CAF88",
+      "#BFD0B2",
+      "#F5F7F2",
+      "#FFFFFF",
+      "#4A5B42"
+    ],
+    "headingFont": {
+      "family": "Crimson Text",
+      "weight": "700",
+      "googleFontsId": "Crimson+Text:wght@700"
+    },
+    "bodyFont": {
+      "family": "Mulish",
+      "weight": "400",
+      "googleFontsId": "Mulish:wght@400"
+    },
+    "preview": {
+      "heading": "Breathe Easy",
+      "body": "Nature's quiet wisdom in every shade."
+    },
+    "tags": [
+      "education",
+      "interior",
+      "caf\u00e9"
+    ],
+    "moods": [
+      "organic",
+      "minimal",
+      "cool"
+    ],
+    "likes": 3987,
+    "createdAt": "2026-01-13",
+    "featured": false
+  },
+  {
+    "id": "crimson-editorial",
+    "name": "Crimson Editorial",
+    "aesthetic": "Magazine Bold",
+    "colors": [
+      "#DC143C",
+      "#8B0000",
+      "#FFF5F5",
+      "#1A1A1A",
+      "#4A0010"
+    ],
+    "headingFont": {
+      "family": "Fraunces",
+      "weight": "700",
+      "googleFontsId": "Fraunces:wght@700"
+    },
+    "bodyFont": {
+      "family": "Work Sans",
+      "weight": "400",
+      "googleFontsId": "Work+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Bold Statement",
+      "body": "Words that demand to be read."
+    },
+    "tags": [
+      "blog",
+      "fashion",
+      "brand"
+    ],
+    "moods": [
+      "editorial",
+      "bold",
+      "luxe"
+    ],
+    "likes": 4789,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "cloud-nine",
+    "name": "Cloud Nine",
+    "aesthetic": "Airy White",
+    "colors": [
+      "#F8F9FA",
+      "#E9ECEF",
+      "#FFFFFF",
+      "#ADB5BD",
+      "#495057"
+    ],
+    "headingFont": {
+      "family": "Outfit",
+      "weight": "600",
+      "googleFontsId": "Outfit:wght@600"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Float Away",
+      "body": "Weightless design that lifts the spirit."
+    },
+    "tags": [
+      "brand",
+      "startup",
+      "blog"
+    ],
+    "moods": [
+      "minimal",
+      "cool",
+      "elegant"
+    ],
+    "likes": 3654,
+    "createdAt": "2026-01-11",
+    "featured": false
+  },
+  {
+    "id": "ember-glow",
+    "name": "Ember Glow",
+    "aesthetic": "Firelight Warm",
+    "colors": [
+      "#FF4500",
+      "#FF6347",
+      "#FFF5EE",
+      "#CD5C5C",
+      "#2C0E0E"
+    ],
+    "headingFont": {
+      "family": "Lora",
+      "weight": "700",
+      "googleFontsId": "Lora:wght@700"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Warm Glow",
+      "body": "The last embers cast the softest light."
+    },
+    "tags": [
+      "interior",
+      "caf\u00e9",
+      "photography"
+    ],
+    "moods": [
+      "warm",
+      "earthy",
+      "editorial"
+    ],
+    "likes": 4321,
+    "createdAt": "2026-01-10",
+    "featured": false
+  },
+  {
+    "id": "pixel-perfect",
+    "name": "Pixel Perfect",
+    "aesthetic": "Digital Clean",
+    "colors": [
+      "#6C63FF",
+      "#A29BFE",
+      "#F0EFFF",
+      "#FFFFFF",
+      "#2D2B55"
+    ],
+    "headingFont": {
+      "family": "Sora",
+      "weight": "600",
+      "googleFontsId": "Sora:wght@600"
+    },
+    "bodyFont": {
+      "family": "IBM Plex Mono",
+      "weight": "400",
+      "googleFontsId": "IBM+Plex+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "Ship It",
+      "body": "Every pixel placed with purpose."
+    },
+    "tags": [
+      "startup",
+      "education",
+      "gaming"
+    ],
+    "moods": [
+      "futuristic",
+      "minimal",
+      "cool"
+    ],
+    "likes": 5432,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "tuscan-villa",
+    "name": "Tuscan Villa",
+    "aesthetic": "Italian Classic",
+    "colors": [
+      "#A0522D",
+      "#D2691E",
+      "#FFF8DC",
+      "#6B4226",
+      "#F5EDDA"
+    ],
+    "headingFont": {
+      "family": "EB Garamond",
+      "weight": "700",
+      "googleFontsId": "EB+Garamond:wght@700"
+    },
+    "bodyFont": {
+      "family": "Cabin",
+      "weight": "400",
+      "googleFontsId": "Cabin:wght@400"
+    },
+    "preview": {
+      "heading": "La Dolce Vita",
+      "body": "Sun-soaked elegance in every brushstroke."
+    },
+    "tags": [
+      "real estate",
+      "interior",
+      "wedding"
+    ],
+    "moods": [
+      "warm",
+      "luxe",
+      "elegant"
+    ],
+    "likes": 4876,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "aurora-borealis",
+    "name": "Aurora Borealis",
+    "aesthetic": "Northern Lights",
+    "colors": [
+      "#001F3F",
+      "#00FF9F",
+      "#B19CD9",
+      "#F0FFFF",
+      "#003D5C"
+    ],
+    "headingFont": {
+      "family": "Bricolage Grotesque",
+      "weight": "700",
+      "googleFontsId": "Bricolage+Grotesque:wght@700"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Night Sky",
+      "body": "Dancing lights illuminate the darkness."
+    },
+    "tags": [
+      "photography",
+      "brand",
+      "blog"
+    ],
+    "moods": [
+      "cool",
+      "futuristic",
+      "elegant"
+    ],
+    "likes": 5876,
+    "createdAt": "2026-01-07",
+    "featured": true
+  },
+  {
+    "id": "honey-butter",
+    "name": "Honey Butter",
+    "aesthetic": "Golden Soft",
+    "colors": [
+      "#F0C75E",
+      "#FFEAA7",
+      "#FFFDF5",
+      "#DAA520",
+      "#5C4A1A"
+    ],
+    "headingFont": {
+      "family": "Young Serif",
+      "weight": "400",
+      "googleFontsId": "Young+Serif"
+    },
+    "bodyFont": {
+      "family": "Figtree",
+      "weight": "400",
+      "googleFontsId": "Figtree:wght@400"
+    },
+    "preview": {
+      "heading": "Sweet Moments",
+      "body": "Golden warmth that melts the heart."
+    },
+    "tags": [
+      "caf\u00e9",
+      "blog",
+      "education"
+    ],
+    "moods": [
+      "warm",
+      "playful",
+      "organic"
+    ],
+    "likes": 4102,
+    "createdAt": "2026-01-06",
+    "featured": false
+  },
+  {
+    "id": "graphite-edge",
+    "name": "Graphite Edge",
+    "aesthetic": "Sharp Modern",
+    "colors": [
+      "#1C1C1C",
+      "#3D3D3D",
+      "#808080",
+      "#F5F5F5",
+      "#00D9FF"
+    ],
+    "headingFont": {
+      "family": "Archivo Black",
+      "weight": "400",
+      "googleFontsId": "Archivo+Black"
+    },
+    "bodyFont": {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "googleFontsId": "JetBrains+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "SHARP FOCUS",
+      "body": "Precision cuts through the noise."
+    },
+    "tags": [
+      "startup",
+      "gaming",
+      "brand"
+    ],
+    "moods": [
+      "dark",
+      "bold",
+      "futuristic"
+    ],
+    "likes": 5678,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "coral-reef",
+    "name": "Coral Reef",
+    "aesthetic": "Ocean Tropical",
+    "colors": [
+      "#FF7F50",
+      "#FF6347",
+      "#FFF5EE",
+      "#48D1CC",
+      "#8B4513"
+    ],
+    "headingFont": {
+      "family": "DM Serif Display",
+      "weight": "400",
+      "googleFontsId": "DM+Serif+Display:wght@400"
+    },
+    "bodyFont": {
+      "family": "Nunito",
+      "weight": "400",
+      "googleFontsId": "Nunito:wght@400"
+    },
+    "preview": {
+      "heading": "Underwater Beauty",
+      "body": "Vibrant life beneath tropical waves."
+    },
+    "tags": [
+      "photography",
+      "social media",
+      "wedding"
+    ],
+    "moods": [
+      "warm",
+      "playful",
+      "organic"
+    ],
+    "likes": 4456,
+    "createdAt": "2026-01-04",
+    "featured": false
+  },
+  {
+    "id": "steel-resolve",
+    "name": "Steel Resolve",
+    "aesthetic": "Industrial Cool",
+    "colors": [
+      "#4682B4",
+      "#5F9EA0",
+      "#F0F8FF",
+      "#FFFFFF",
+      "#2F4F4F"
+    ],
+    "headingFont": {
+      "family": "Oswald",
+      "weight": "700",
+      "googleFontsId": "Oswald:wght@700"
+    },
+    "bodyFont": {
+      "family": "Roboto",
+      "weight": "400",
+      "googleFontsId": "Roboto:wght@400"
+    },
+    "preview": {
+      "heading": "Built Strong",
+      "body": "Industrial precision meets cool confidence."
+    },
+    "tags": [
+      "startup",
+      "real estate",
+      "brand"
+    ],
+    "moods": [
+      "cool",
+      "bold",
+      "minimal"
+    ],
+    "likes": 3567,
+    "createdAt": "2026-01-03",
+    "featured": false
+  },
+  {
+    "id": "violet-storm",
+    "name": "Violet Storm",
+    "aesthetic": "Purple Power",
+    "colors": [
+      "#8B00FF",
+      "#9370DB",
+      "#E6E6FA",
+      "#FFFFFF",
+      "#4B0082"
+    ],
+    "headingFont": {
+      "family": "Poppins",
+      "weight": "700",
+      "googleFontsId": "Poppins:wght@700"
+    },
+    "bodyFont": {
+      "family": "Rubik",
+      "weight": "400",
+      "googleFontsId": "Rubik:wght@400"
+    },
+    "preview": {
+      "heading": "Storm Rising",
+      "body": "Electric energy in violet tempest."
+    },
+    "tags": [
+      "gaming",
+      "social media",
+      "brand"
+    ],
+    "moods": [
+      "bold",
+      "cool",
+      "futuristic"
+    ],
+    "likes": 6123,
+    "createdAt": "2026-01-02",
+    "featured": false
+  },
+  {
+    "id": "parchment-ink",
+    "name": "Parchment & Ink",
+    "aesthetic": "Literary Classic",
+    "colors": [
+      "#2C2C2C",
+      "#4A4A4A",
+      "#F5F0E8",
+      "#E8DCC8",
+      "#8B7355"
+    ],
+    "headingFont": {
+      "family": "Libre Baskerville",
+      "weight": "700",
+      "googleFontsId": "Libre+Baskerville:wght@700"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Read More",
+      "body": "Stories worth savoring, page by page."
+    },
+    "tags": [
+      "blog",
+      "education",
+      "brand"
+    ],
+    "moods": [
+      "editorial",
+      "elegant",
+      "retro"
+    ],
+    "likes": 3876,
+    "createdAt": "2026-01-01",
+    "featured": false
+  },
+  {
+    "id": "sunset-boulevard",
+    "name": "Sunset Boulevard",
+    "aesthetic": "Hollywood Warm",
+    "colors": [
+      "#FF6B35",
+      "#FF8C42",
+      "#FFE8D6",
+      "#2C1810",
+      "#C75B39"
+    ],
+    "headingFont": {
+      "family": "Montserrat",
+      "weight": "700",
+      "googleFontsId": "Montserrat:wght@700"
+    },
+    "bodyFont": {
+      "family": "Open Sans",
+      "weight": "400",
+      "googleFontsId": "Open+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Roll Camera",
+      "body": "Where every frame tells a golden story."
+    },
+    "tags": [
+      "photography",
+      "social media",
+      "fashion"
+    ],
+    "moods": [
+      "warm",
+      "retro",
+      "editorial"
+    ],
+    "likes": 5102,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "bamboo-grove",
+    "name": "Bamboo Grove",
+    "aesthetic": "Asian Minimal",
+    "colors": [
+      "#6B8F6B",
+      "#A8C8A8",
+      "#F0F5F0",
+      "#FFFFFF",
+      "#2D4A2D"
+    ],
+    "headingFont": {
+      "family": "Plus Jakarta Sans",
+      "weight": "700",
+      "googleFontsId": "Plus+Jakarta+Sans:wght@700"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Still Waters",
+      "body": "Patience and clarity in every reed."
+    },
+    "tags": [
+      "interior",
+      "education",
+      "caf\u00e9"
+    ],
+    "moods": [
+      "minimal",
+      "organic",
+      "cool"
+    ],
+    "likes": 3432,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "magenta-rush",
+    "name": "Magenta Rush",
+    "aesthetic": "Neon Pink",
+    "colors": [
+      "#FF00FF",
+      "#FF1493",
+      "#FFF0FF",
+      "#1A1A1A",
+      "#8B008B"
+    ],
+    "headingFont": {
+      "family": "Space Grotesk",
+      "weight": "700",
+      "googleFontsId": "Space+Grotesk:wght@700"
+    },
+    "bodyFont": {
+      "family": "Fira Code",
+      "weight": "400",
+      "googleFontsId": "Fira+Code:wght@400"
+    },
+    "preview": {
+      "heading": "Go Bold",
+      "body": "Pink that refuses to play it safe."
+    },
+    "tags": [
+      "fashion",
+      "gaming",
+      "social media"
+    ],
+    "moods": [
+      "bold",
+      "playful",
+      "futuristic"
+    ],
+    "likes": 6543,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "limestone-calm",
+    "name": "Limestone Calm",
+    "aesthetic": "Stone Neutral",
+    "colors": [
+      "#D3CFC7",
+      "#E8E4DB",
+      "#FFFFFF",
+      "#A89F91",
+      "#4A4640"
+    ],
+    "headingFont": {
+      "family": "Crimson Text",
+      "weight": "700",
+      "googleFontsId": "Crimson+Text:wght@700"
+    },
+    "bodyFont": {
+      "family": "Mulish",
+      "weight": "400",
+      "googleFontsId": "Mulish:wght@400"
+    },
+    "preview": {
+      "heading": "Quiet Strength",
+      "body": "Solid foundations built from natural stone."
+    },
+    "tags": [
+      "real estate",
+      "interior",
+      "brand"
+    ],
+    "moods": [
+      "minimal",
+      "earthy",
+      "elegant"
+    ],
+    "likes": 3210,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "cherry-blossom",
+    "name": "Cherry Blossom",
+    "aesthetic": "Spring Japanese",
+    "colors": [
+      "#FFB7C5",
+      "#FFC1CC",
+      "#FFF5F7",
+      "#8B5F65",
+      "#2C1A1E"
+    ],
+    "headingFont": {
+      "family": "Cormorant Garamond",
+      "weight": "600",
+      "googleFontsId": "Cormorant+Garamond:wght@600"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Fleeting Beauty",
+      "body": "Petals fall like whispered promises."
+    },
+    "tags": [
+      "wedding",
+      "photography",
+      "blog"
+    ],
+    "moods": [
+      "elegant",
+      "warm",
+      "organic"
+    ],
+    "likes": 5234,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "dark-academia",
+    "name": "Dark Academia",
+    "aesthetic": "Scholar Dark",
+    "colors": [
+      "#2C1810",
+      "#4A3728",
+      "#F5EDDA",
+      "#8B7355",
+      "#C4A35A"
+    ],
+    "headingFont": {
+      "family": "EB Garamond",
+      "weight": "700",
+      "googleFontsId": "EB+Garamond:wght@700"
+    },
+    "bodyFont": {
+      "family": "Lato",
+      "weight": "400",
+      "googleFontsId": "Lato:wght@400"
+    },
+    "preview": {
+      "heading": "Seek Knowledge",
+      "body": "Candlelit study rooms and leather-bound wisdom."
+    },
+    "tags": [
+      "education",
+      "blog",
+      "brand"
+    ],
+    "moods": [
+      "dark",
+      "retro",
+      "editorial"
+    ],
+    "likes": 7234,
+    "createdAt": "2026-02-01",
+    "featured": true
+  },
+  {
+    "id": "fresh-squeeze",
+    "name": "Fresh Squeeze",
+    "aesthetic": "Citrus Bright",
+    "colors": [
+      "#FFA500",
+      "#FFD700",
+      "#FFFFF0",
+      "#FF6B00",
+      "#2C1A00"
+    ],
+    "headingFont": {
+      "family": "Quicksand",
+      "weight": "700",
+      "googleFontsId": "Quicksand:wght@700"
+    },
+    "bodyFont": {
+      "family": "Karla",
+      "weight": "400",
+      "googleFontsId": "Karla:wght@400"
+    },
+    "preview": {
+      "heading": "Taste Life",
+      "body": "Freshly squeezed optimism in every drop."
+    },
+    "tags": [
+      "caf\u00e9",
+      "social media",
+      "education"
+    ],
+    "moods": [
+      "playful",
+      "warm",
+      "bold"
+    ],
+    "likes": 4567,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "platinum-class",
+    "name": "Platinum Class",
+    "aesthetic": "Ultra Premium",
+    "colors": [
+      "#E5E4E2",
+      "#C0C0C0",
+      "#FFFFFF",
+      "#2C2C2C",
+      "#8E8E8E"
+    ],
+    "headingFont": {
+      "family": "Manrope",
+      "weight": "700",
+      "googleFontsId": "Manrope:wght@700"
+    },
+    "bodyFont": {
+      "family": "Albert Sans",
+      "weight": "400",
+      "googleFontsId": "Albert+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "First Class",
+      "body": "Precision and prestige in every detail."
+    },
+    "tags": [
+      "real estate",
+      "brand",
+      "fashion"
+    ],
+    "moods": [
+      "luxe",
+      "minimal",
+      "cool"
+    ],
+    "likes": 4876,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "moss-creek",
+    "name": "Moss Creek",
+    "aesthetic": "Forest Stream",
+    "colors": [
+      "#2E4A34",
+      "#5C8A64",
+      "#E8F0E8",
+      "#F5F8F5",
+      "#1A2E1E"
+    ],
+    "headingFont": {
+      "family": "Vollkorn",
+      "weight": "700",
+      "googleFontsId": "Vollkorn:wght@700"
+    },
+    "bodyFont": {
+      "family": "Cabin",
+      "weight": "400",
+      "googleFontsId": "Cabin:wght@400"
+    },
+    "preview": {
+      "heading": "Into the Wild",
+      "body": "Follow the mossy path to somewhere quieter."
+    },
+    "tags": [
+      "photography",
+      "interior",
+      "blog"
+    ],
+    "moods": [
+      "organic",
+      "earthy",
+      "cool"
+    ],
+    "likes": 3765,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "retro-diner",
+    "name": "Retro Diner",
+    "aesthetic": "50s Americana",
+    "colors": [
+      "#FF4444",
+      "#FFD700",
+      "#FFFAF0",
+      "#1A1A1A",
+      "#FF6B6B"
+    ],
+    "headingFont": {
+      "family": "Bebas Neue",
+      "weight": "400",
+      "googleFontsId": "Bebas+Neue"
+    },
+    "bodyFont": {
+      "family": "Roboto",
+      "weight": "400",
+      "googleFontsId": "Roboto:wght@400"
+    },
+    "preview": {
+      "heading": "SHAKE & FRIES",
+      "body": "Chrome stools, checkered floors, and good vibes only."
+    },
+    "tags": [
+      "caf\u00e9",
+      "brand",
+      "social media"
+    ],
+    "moods": [
+      "retro",
+      "playful",
+      "bold"
+    ],
+    "likes": 5102,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "indigo-night",
+    "name": "Indigo Night",
+    "aesthetic": "Deep Blue Dark",
+    "colors": [
+      "#1A0033",
+      "#2E0066",
+      "#7B68EE",
+      "#E8E0FF",
+      "#4B0082"
+    ],
+    "headingFont": {
+      "family": "Instrument Serif",
+      "weight": "400",
+      "googleFontsId": "Instrument+Serif"
+    },
+    "bodyFont": {
+      "family": "Work Sans",
+      "weight": "400",
+      "googleFontsId": "Work+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Depth Found",
+      "body": "Where indigo meets infinity."
+    },
+    "tags": [
+      "fashion",
+      "brand",
+      "photography"
+    ],
+    "moods": [
+      "dark",
+      "luxe",
+      "elegant"
+    ],
+    "likes": 4654,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "linen-breeze",
+    "name": "Linen Breeze",
+    "aesthetic": "Coastal Light",
+    "colors": [
+      "#F5F0E8",
+      "#E8DCC8",
+      "#FFFFFF",
+      "#B8A898",
+      "#4A4238"
+    ],
+    "headingFont": {
+      "family": "Source Serif 4",
+      "weight": "700",
+      "googleFontsId": "Source+Serif+4:wght@700"
+    },
+    "bodyFont": {
+      "family": "Figtree",
+      "weight": "400",
+      "googleFontsId": "Figtree:wght@400"
+    },
+    "preview": {
+      "heading": "Easy Living",
+      "body": "Sun-bleached linen dancing in the coastal wind."
+    },
+    "tags": [
+      "interior",
+      "wedding",
+      "blog"
+    ],
+    "moods": [
+      "minimal",
+      "warm",
+      "organic"
+    ],
+    "likes": 3987,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "candy-stripe",
+    "name": "Candy Stripe",
+    "aesthetic": "Sweet Pop",
+    "colors": [
+      "#FF6B9D",
+      "#C774E8",
+      "#A8E6CF",
+      "#FFE66D",
+      "#2C2C54"
+    ],
+    "headingFont": {
+      "family": "Poppins",
+      "weight": "700",
+      "googleFontsId": "Poppins:wght@700"
+    },
+    "bodyFont": {
+      "family": "Nunito",
+      "weight": "400",
+      "googleFontsId": "Nunito:wght@400"
+    },
+    "preview": {
+      "heading": "Sweet Spot",
+      "body": "Design that makes you smile every time."
+    },
+    "tags": [
+      "education",
+      "social media",
+      "gaming"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "warm"
+    ],
+    "likes": 5321,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "tundra-frost",
+    "name": "Tundra Frost",
+    "aesthetic": "Arctic Blue",
+    "colors": [
+      "#E0F7FF",
+      "#C9EEFF",
+      "#FFFFFF",
+      "#6FB4D4",
+      "#1A4A5F"
+    ],
+    "headingFont": {
+      "family": "Sora",
+      "weight": "600",
+      "googleFontsId": "Sora:wght@600"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Crystal Clear",
+      "body": "Frozen beauty in crystalline perfection."
+    },
+    "tags": [
+      "brand",
+      "startup",
+      "photography"
+    ],
+    "moods": [
+      "cool",
+      "minimal",
+      "elegant"
+    ],
+    "likes": 3432,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "wine-cellar",
+    "name": "Wine Cellar",
+    "aesthetic": "Burgundy Rich",
+    "colors": [
+      "#800020",
+      "#A0304E",
+      "#F5E6E8",
+      "#FFFFFF",
+      "#3D0814"
+    ],
+    "headingFont": {
+      "family": "Playfair Display",
+      "weight": "700",
+      "googleFontsId": "Playfair+Display:wght@700"
+    },
+    "bodyFont": {
+      "family": "Raleway",
+      "weight": "400",
+      "googleFontsId": "Raleway:wght@400"
+    },
+    "preview": {
+      "heading": "Rich Taste",
+      "body": "Deep, complex, and beautifully aged."
+    },
+    "tags": [
+      "fashion",
+      "real estate",
+      "interior"
+    ],
+    "moods": [
+      "luxe",
+      "elegant",
+      "dark"
+    ],
+    "likes": 5890,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "electric-tangerine",
+    "name": "Electric Tangerine",
+    "aesthetic": "Vibrant Orange",
+    "colors": [
+      "#FF6600",
+      "#FF9900",
+      "#FFF5E8",
+      "#CC3300",
+      "#1A1A1A"
+    ],
+    "headingFont": {
+      "family": "Bricolage Grotesque",
+      "weight": "700",
+      "googleFontsId": "Bricolage+Grotesque:wght@700"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Full Speed",
+      "body": "No brakes on this creative ride."
+    },
+    "tags": [
+      "startup",
+      "social media",
+      "gaming"
+    ],
+    "moods": [
+      "bold",
+      "warm",
+      "playful"
+    ],
+    "likes": 4789,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "snow-peak",
+    "name": "Snow Peak",
+    "aesthetic": "Alpine White",
+    "colors": [
+      "#F8F9FA",
+      "#E2E8F0",
+      "#FFFFFF",
+      "#94A3B8",
+      "#1E293B"
+    ],
+    "headingFont": {
+      "family": "Manrope",
+      "weight": "700",
+      "googleFontsId": "Manrope:wght@700"
+    },
+    "bodyFont": {
+      "family": "Inter",
+      "weight": "400",
+      "googleFontsId": "Inter:wght@400"
+    },
+    "preview": {
+      "heading": "Peak Design",
+      "body": "Clear thinking at the highest altitude."
+    },
+    "tags": [
+      "startup",
+      "brand",
+      "education"
+    ],
+    "moods": [
+      "minimal",
+      "cool",
+      "elegant"
+    ],
+    "likes": 3210,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "mahogany-study",
+    "name": "Mahogany Study",
+    "aesthetic": "Wood Classic",
+    "colors": [
+      "#420D09",
+      "#8B4513",
+      "#D2691E",
+      "#F5DEB3",
+      "#1A0A08"
+    ],
+    "headingFont": {
+      "family": "Bitter",
+      "weight": "700",
+      "googleFontsId": "Bitter:wght@700"
+    },
+    "bodyFont": {
+      "family": "Open Sans",
+      "weight": "400",
+      "googleFontsId": "Open+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Deep Thinking",
+      "body": "Rich grain speaks of timeless craft."
+    },
+    "tags": [
+      "interior",
+      "education",
+      "real estate"
+    ],
+    "moods": [
+      "warm",
+      "luxe",
+      "earthy"
+    ],
+    "likes": 3678,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "aurora-green",
+    "name": "Aurora Green",
+    "aesthetic": "Nordic Glow",
+    "colors": [
+      "#00FF7F",
+      "#7FFFD4",
+      "#001A0A",
+      "#003D1A",
+      "#F0FFF0"
+    ],
+    "headingFont": {
+      "family": "Outfit",
+      "weight": "600",
+      "googleFontsId": "Outfit:wght@600"
+    },
+    "bodyFont": {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "googleFontsId": "JetBrains+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "Northern Glow",
+      "body": "The sky dances in electric green."
+    },
+    "tags": [
+      "gaming",
+      "photography",
+      "brand"
+    ],
+    "moods": [
+      "futuristic",
+      "cool",
+      "dark"
+    ],
+    "likes": 5432,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "rose-gold",
+    "name": "Rose Gold",
+    "aesthetic": "Premium Blush",
+    "colors": [
+      "#B76E79",
+      "#E8B4BC",
+      "#FFF5F7",
+      "#FFFFFF",
+      "#7D4E57"
+    ],
+    "headingFont": {
+      "family": "Cormorant Garamond",
+      "weight": "600",
+      "googleFontsId": "Cormorant+Garamond:wght@600"
+    },
+    "bodyFont": {
+      "family": "Mulish",
+      "weight": "400",
+      "googleFontsId": "Mulish:wght@400"
+    },
+    "preview": {
+      "heading": "Precious Metal",
+      "body": "Where luxury meets warmth in every detail."
+    },
+    "tags": [
+      "wedding",
+      "fashion",
+      "brand"
+    ],
+    "moods": [
+      "luxe",
+      "elegant",
+      "warm"
+    ],
+    "likes": 6102,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "shadow-play",
+    "name": "Shadow Play",
+    "aesthetic": "Noir Contrast",
+    "colors": [
+      "#0A0A0A",
+      "#1C1C1C",
+      "#F5F5F5",
+      "#FFFFFF",
+      "#C0C0C0"
+    ],
+    "headingFont": {
+      "family": "Archivo Black",
+      "weight": "400",
+      "googleFontsId": "Archivo+Black"
+    },
+    "bodyFont": {
+      "family": "Space Mono",
+      "weight": "400",
+      "googleFontsId": "Space+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "LIGHT & DARK",
+      "body": "The sharpest contrasts reveal the truth."
+    },
+    "tags": [
+      "photography",
+      "fashion",
+      "brand"
+    ],
+    "moods": [
+      "dark",
+      "editorial",
+      "bold"
+    ],
+    "likes": 4321,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "meadow-song",
+    "name": "Meadow Song",
+    "aesthetic": "Field Pastoral",
+    "colors": [
+      "#90BE6D",
+      "#C8E6A0",
+      "#FAFFF5",
+      "#577B41",
+      "#2C3E1A"
+    ],
+    "headingFont": {
+      "family": "Lora",
+      "weight": "700",
+      "googleFontsId": "Lora:wght@700"
+    },
+    "bodyFont": {
+      "family": "Karla",
+      "weight": "400",
+      "googleFontsId": "Karla:wght@400"
+    },
+    "preview": {
+      "heading": "Open Fields",
+      "body": "Where wildflowers paint the morning air."
+    },
+    "tags": [
+      "wedding",
+      "photography",
+      "interior"
+    ],
+    "moods": [
+      "organic",
+      "warm",
+      "elegant"
+    ],
+    "likes": 4123,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "galaxy-drift",
+    "name": "Galaxy Drift",
+    "aesthetic": "Space Purple",
+    "colors": [
+      "#0B0B1A",
+      "#1A0A3E",
+      "#7B2FBE",
+      "#E040FB",
+      "#F0E0FF"
+    ],
+    "headingFont": {
+      "family": "Orbitron",
+      "weight": "700",
+      "googleFontsId": "Orbitron:wght@700"
+    },
+    "bodyFont": {
+      "family": "Exo 2",
+      "weight": "400",
+      "googleFontsId": "Exo+2:wght@400"
+    },
+    "preview": {
+      "heading": "To the Stars",
+      "body": "Infinite possibilities in every constellation."
+    },
+    "tags": [
+      "gaming",
+      "startup",
+      "social media"
+    ],
+    "moods": [
+      "futuristic",
+      "dark",
+      "bold"
+    ],
+    "likes": 7654,
+    "createdAt": "2026-01-15",
+    "featured": true
+  },
+  {
+    "id": "kraft-paper",
+    "name": "Kraft Paper",
+    "aesthetic": "Handmade Warm",
+    "colors": [
+      "#C8A882",
+      "#DDB892",
+      "#F5EDDA",
+      "#6B5B45",
+      "#2C241A"
+    ],
+    "headingFont": {
+      "family": "Spectral",
+      "weight": "700",
+      "googleFontsId": "Spectral:wght@700"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Made By Hand",
+      "body": "The beauty of imperfection, perfectly placed."
+    },
+    "tags": [
+      "caf\u00e9",
+      "brand",
+      "education"
+    ],
+    "moods": [
+      "earthy",
+      "retro",
+      "organic"
+    ],
+    "likes": 3456,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "ocean-mist",
+    "name": "Ocean Mist",
+    "aesthetic": "Coastal Fog",
+    "colors": [
+      "#B0C4DE",
+      "#C9D6E5",
+      "#F0F4F8",
+      "#FFFFFF",
+      "#5A7B9A"
+    ],
+    "headingFont": {
+      "family": "Young Serif",
+      "weight": "400",
+      "googleFontsId": "Young+Serif"
+    },
+    "bodyFont": {
+      "family": "Albert Sans",
+      "weight": "400",
+      "googleFontsId": "Albert+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Misty Shore",
+      "body": "Where the ocean whispers to the fog."
+    },
+    "tags": [
+      "photography",
+      "blog",
+      "interior"
+    ],
+    "moods": [
+      "cool",
+      "minimal",
+      "organic"
+    ],
+    "likes": 3876,
+    "createdAt": "2026-01-13",
+    "featured": false
+  },
+  {
+    "id": "ruby-gala",
+    "name": "Ruby Gala",
+    "aesthetic": "Jewel Red",
+    "colors": [
+      "#9B111E",
+      "#C41E3A",
+      "#FFE8EC",
+      "#FFFFFF",
+      "#4A0A12"
+    ],
+    "headingFont": {
+      "family": "Fraunces",
+      "weight": "700",
+      "googleFontsId": "Fraunces:wght@700"
+    },
+    "bodyFont": {
+      "family": "Work Sans",
+      "weight": "400",
+      "googleFontsId": "Work+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Red Carpet",
+      "body": "Make an entrance that no one forgets."
+    },
+    "tags": [
+      "fashion",
+      "brand",
+      "social media"
+    ],
+    "moods": [
+      "luxe",
+      "bold",
+      "elegant"
+    ],
+    "likes": 5678,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "classroom-bright",
+    "name": "Classroom Bright",
+    "aesthetic": "Learning Fun",
+    "colors": [
+      "#4CAF50",
+      "#FF9800",
+      "#FFF8E1",
+      "#2196F3",
+      "#1A1A1A"
+    ],
+    "headingFont": {
+      "family": "Quicksand",
+      "weight": "700",
+      "googleFontsId": "Quicksand:wght@700"
+    },
+    "bodyFont": {
+      "family": "Nunito",
+      "weight": "400",
+      "googleFontsId": "Nunito:wght@400"
+    },
+    "preview": {
+      "heading": "Learn & Play",
+      "body": "Where curiosity meets colorful discovery."
+    },
+    "tags": [
+      "education",
+      "social media",
+      "blog"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "warm"
+    ],
+    "likes": 4234,
+    "createdAt": "2026-01-11",
+    "featured": false
+  },
+  {
+    "id": "copper-patina",
+    "name": "Copper Patina",
+    "aesthetic": "Aged Metal",
+    "colors": [
+      "#B87333",
+      "#7B9971",
+      "#F0EDE5",
+      "#2C3E28",
+      "#8B6914"
+    ],
+    "headingFont": {
+      "family": "Crimson Text",
+      "weight": "700",
+      "googleFontsId": "Crimson+Text:wght@700"
+    },
+    "bodyFont": {
+      "family": "Cabin",
+      "weight": "400",
+      "googleFontsId": "Cabin:wght@400"
+    },
+    "preview": {
+      "heading": "Aged Well",
+      "body": "Time adds character that can't be rushed."
+    },
+    "tags": [
+      "interior",
+      "brand",
+      "real estate"
+    ],
+    "moods": [
+      "earthy",
+      "retro",
+      "elegant"
+    ],
+    "likes": 3543,
+    "createdAt": "2026-01-10",
+    "featured": false
+  },
+  {
+    "id": "sunrise-yoga",
+    "name": "Sunrise Yoga",
+    "aesthetic": "Wellness Glow",
+    "colors": [
+      "#FFB74D",
+      "#F48FB1",
+      "#FFF8E1",
+      "#FFFFFF",
+      "#5D4037"
+    ],
+    "headingFont": {
+      "family": "Raleway",
+      "weight": "700",
+      "googleFontsId": "Raleway:wght@700"
+    },
+    "bodyFont": {
+      "family": "Lato",
+      "weight": "400",
+      "googleFontsId": "Lato:wght@400"
+    },
+    "preview": {
+      "heading": "Find Center",
+      "body": "Balance and breath in every movement."
+    },
+    "tags": [
+      "education",
+      "blog",
+      "social media"
+    ],
+    "moods": [
+      "warm",
+      "organic",
+      "playful"
+    ],
+    "likes": 4567,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "noir-deco",
+    "name": "Noir Deco",
+    "aesthetic": "Art Deco Dark",
+    "colors": [
+      "#1A1A1A",
+      "#C9A96E",
+      "#F7F4EF",
+      "#2C2C2C",
+      "#DAA520"
+    ],
+    "headingFont": {
+      "family": "Oswald",
+      "weight": "700",
+      "googleFontsId": "Oswald:wght@700"
+    },
+    "bodyFont": {
+      "family": "Raleway",
+      "weight": "400",
+      "googleFontsId": "Raleway:wght@400"
+    },
+    "preview": {
+      "heading": "GILDED AGE",
+      "body": "Geometry and gold from a grander era."
+    },
+    "tags": [
+      "real estate",
+      "fashion",
+      "interior"
+    ],
+    "moods": [
+      "luxe",
+      "retro",
+      "dark"
+    ],
+    "likes": 5432,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "seafoam-gentle",
+    "name": "Seafoam Gentle",
+    "aesthetic": "Aqua Soft",
+    "colors": [
+      "#88D8B0",
+      "#B5EAD7",
+      "#F0FFFE",
+      "#FFFFFF",
+      "#3D7A6A"
+    ],
+    "headingFont": {
+      "family": "DM Serif Display",
+      "weight": "400",
+      "googleFontsId": "DM+Serif+Display:wght@400"
+    },
+    "bodyFont": {
+      "family": "Figtree",
+      "weight": "400",
+      "googleFontsId": "Figtree:wght@400"
+    },
+    "preview": {
+      "heading": "Gentle Waves",
+      "body": "Soft as sea glass on the morning shore."
+    },
+    "tags": [
+      "wedding",
+      "interior",
+      "blog"
+    ],
+    "moods": [
+      "cool",
+      "organic",
+      "elegant"
+    ],
+    "likes": 4321,
+    "createdAt": "2026-01-07",
+    "featured": false
+  },
+  {
+    "id": "espresso-shot",
+    "name": "Espresso Shot",
+    "aesthetic": "Coffee Bold",
+    "colors": [
+      "#3E2723",
+      "#5D4037",
+      "#D7CCC8",
+      "#EFEBE9",
+      "#1A0E0A"
+    ],
+    "headingFont": {
+      "family": "Montserrat",
+      "weight": "700",
+      "googleFontsId": "Montserrat:wght@700"
+    },
+    "bodyFont": {
+      "family": "Roboto",
+      "weight": "400",
+      "googleFontsId": "Roboto:wght@400"
+    },
+    "preview": {
+      "heading": "Wake Up",
+      "body": "Rich, bold, and ready to conquer the morning."
+    },
+    "tags": [
+      "caf\u00e9",
+      "brand",
+      "startup"
+    ],
+    "moods": [
+      "bold",
+      "warm",
+      "dark"
+    ],
+    "likes": 3987,
+    "createdAt": "2026-01-06",
+    "featured": false
+  },
+  {
+    "id": "silk-road",
+    "name": "Silk Road",
+    "aesthetic": "Eastern Luxe",
+    "colors": [
+      "#8B0000",
+      "#DAA520",
+      "#FFF8DC",
+      "#4A0000",
+      "#C9A96E"
+    ],
+    "headingFont": {
+      "family": "Spectral",
+      "weight": "700",
+      "googleFontsId": "Spectral:wght@700"
+    },
+    "bodyFont": {
+      "family": "Open Sans",
+      "weight": "400",
+      "googleFontsId": "Open+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "East Meets West",
+      "body": "Luxury woven from ancient trade routes."
+    },
+    "tags": [
+      "fashion",
+      "interior",
+      "brand"
+    ],
+    "moods": [
+      "luxe",
+      "warm",
+      "retro"
+    ],
+    "likes": 5123,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "neon-sunset",
+    "name": "Neon Sunset",
+    "aesthetic": "Synthwave",
+    "colors": [
+      "#1A0A2E",
+      "#FF6B6B",
+      "#FECA57",
+      "#FF9FF3",
+      "#48DBFB"
+    ],
+    "headingFont": {
+      "family": "Bebas Neue",
+      "weight": "400",
+      "googleFontsId": "Bebas+Neue"
+    },
+    "bodyFont": {
+      "family": "Exo 2",
+      "weight": "400",
+      "googleFontsId": "Exo+2:wght@400"
+    },
+    "preview": {
+      "heading": "RETROWAVE",
+      "body": "The 80s never looked this good."
+    },
+    "tags": [
+      "gaming",
+      "social media",
+      "brand"
+    ],
+    "moods": [
+      "retro",
+      "bold",
+      "futuristic"
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-04",
+    "featured": false
+  },
+  {
+    "id": "chalk-dust",
+    "name": "Chalk & Dust",
+    "aesthetic": "Classroom Retro",
+    "colors": [
+      "#2C3E50",
+      "#7F8C8D",
+      "#ECF0F1",
+      "#FFFFFF",
+      "#E74C3C"
+    ],
+    "headingFont": {
+      "family": "Bitter",
+      "weight": "700",
+      "googleFontsId": "Bitter:wght@700"
+    },
+    "bodyFont": {
+      "family": "Source Sans 3",
+      "weight": "400",
+      "googleFontsId": "Source+Sans+3:wght@400"
+    },
+    "preview": {
+      "heading": "Study Hard",
+      "body": "Where knowledge meets determination."
+    },
+    "tags": [
+      "education",
+      "blog",
+      "brand"
+    ],
+    "moods": [
+      "retro",
+      "minimal",
+      "editorial"
+    ],
+    "likes": 3234,
+    "createdAt": "2026-01-03",
+    "featured": false
+  },
+  {
+    "id": "palm-oasis",
+    "name": "Palm Oasis",
+    "aesthetic": "Tropical Lush",
+    "colors": [
+      "#1B5E20",
+      "#4CAF50",
+      "#C8E6C9",
+      "#FFF8E1",
+      "#0D3311"
+    ],
+    "headingFont": {
+      "family": "Bricolage Grotesque",
+      "weight": "700",
+      "googleFontsId": "Bricolage+Grotesque:wght@700"
+    },
+    "bodyFont": {
+      "family": "DM Sans",
+      "weight": "400",
+      "googleFontsId": "DM+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Paradise Found",
+      "body": "Lush greens and golden light."
+    },
+    "tags": [
+      "interior",
+      "caf\u00e9",
+      "photography"
+    ],
+    "moods": [
+      "organic",
+      "warm",
+      "bold"
+    ],
+    "likes": 4567,
+    "createdAt": "2026-01-02",
+    "featured": false
+  },
+  {
+    "id": "silver-screen",
+    "name": "Silver Screen",
+    "aesthetic": "Cinema Mono",
+    "colors": [
+      "#1A1A1A",
+      "#C0C0C0",
+      "#E8E8E8",
+      "#FFFFFF",
+      "#4A4A4A"
+    ],
+    "headingFont": {
+      "family": "Instrument Serif",
+      "weight": "400",
+      "googleFontsId": "Instrument+Serif"
+    },
+    "bodyFont": {
+      "family": "Albert Sans",
+      "weight": "400",
+      "googleFontsId": "Albert+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Scene One",
+      "body": "Every great story starts with a single frame."
+    },
+    "tags": [
+      "photography",
+      "fashion",
+      "blog"
+    ],
+    "moods": [
+      "editorial",
+      "dark",
+      "elegant"
+    ],
+    "likes": 4102,
+    "createdAt": "2026-01-01",
+    "featured": false
+  },
+  {
+    "id": "lemon-grove",
+    "name": "Lemon Grove",
+    "aesthetic": "Citrus Fresh",
+    "colors": [
+      "#FFF44F",
+      "#FFEB3B",
+      "#FFFDE7",
+      "#F57F17",
+      "#1A1A0A"
+    ],
+    "headingFont": {
+      "family": "Manrope",
+      "weight": "700",
+      "googleFontsId": "Manrope:wght@700"
+    },
+    "bodyFont": {
+      "family": "Mulish",
+      "weight": "400",
+      "googleFontsId": "Mulish:wght@400"
+    },
+    "preview": {
+      "heading": "Zesty Fresh",
+      "body": "Bright energy squeezed from sunshine."
+    },
+    "tags": [
+      "caf\u00e9",
+      "social media",
+      "education"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "warm"
+    ],
+    "likes": 5123,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "twilight-garden",
+    "name": "Twilight Garden",
+    "aesthetic": "Dusk Romantic",
+    "colors": [
+      "#2C1A3E",
+      "#6B3FA0",
+      "#E8D0FF",
+      "#F8F0FF",
+      "#4A2870"
+    ],
+    "headingFont": {
+      "family": "Lora",
+      "weight": "700",
+      "googleFontsId": "Lora:wght@700"
+    },
+    "bodyFont": {
+      "family": "Karla",
+      "weight": "400",
+      "googleFontsId": "Karla:wght@400"
+    },
+    "preview": {
+      "heading": "Dusk Blooms",
+      "body": "The garden comes alive as the sun sets."
+    },
+    "tags": [
+      "wedding",
+      "photography",
+      "interior"
+    ],
+    "moods": [
+      "elegant",
+      "cool",
+      "organic"
+    ],
+    "likes": 4876,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "carbon-fiber",
+    "name": "Carbon Fiber",
+    "aesthetic": "Tech Black",
+    "colors": [
+      "#0A0A0A",
+      "#1E1E1E",
+      "#3D3D3D",
+      "#F0F0F0",
+      "#00B4D8"
+    ],
+    "headingFont": {
+      "family": "Sora",
+      "weight": "600",
+      "googleFontsId": "Sora:wght@600"
+    },
+    "bodyFont": {
+      "family": "IBM Plex Mono",
+      "weight": "400",
+      "googleFontsId": "IBM+Plex+Mono:wght@400"
+    },
+    "preview": {
+      "heading": "Engineered",
+      "body": "Lightweight performance, maximum impact."
+    },
+    "tags": [
+      "startup",
+      "gaming",
+      "brand"
+    ],
+    "moods": [
+      "dark",
+      "futuristic",
+      "minimal"
+    ],
+    "likes": 5678,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "harvest-moon",
+    "name": "Harvest Moon",
+    "aesthetic": "Autumn Gold",
+    "colors": [
+      "#D2691E",
+      "#FF8C00",
+      "#FFF8DC",
+      "#8B4513",
+      "#2C1A0E"
+    ],
+    "headingFont": {
+      "family": "Young Serif",
+      "weight": "400",
+      "googleFontsId": "Young+Serif"
+    },
+    "bodyFont": {
+      "family": "Cabin",
+      "weight": "400",
+      "googleFontsId": "Cabin:wght@400"
+    },
+    "preview": {
+      "heading": "Golden Dusk",
+      "body": "The air is crisp and the leaves are turning."
+    },
+    "tags": [
+      "photography",
+      "caf\u00e9",
+      "blog"
+    ],
+    "moods": [
+      "warm",
+      "earthy",
+      "editorial"
+    ],
+    "likes": 4321,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "porcelain-blue",
+    "name": "Porcelain Blue",
+    "aesthetic": "Delft Classic",
+    "colors": [
+      "#2E5090",
+      "#4A78C9",
+      "#E8F0FF",
+      "#FFFFFF",
+      "#1A3060"
+    ],
+    "headingFont": {
+      "family": "Source Serif 4",
+      "weight": "700",
+      "googleFontsId": "Source+Serif+4:wght@700"
+    },
+    "bodyFont": {
+      "family": "Figtree",
+      "weight": "400",
+      "googleFontsId": "Figtree:wght@400"
+    },
+    "preview": {
+      "heading": "Fine Craft",
+      "body": "Precision painted in blue and white."
+    },
+    "tags": [
+      "interior",
+      "brand",
+      "real estate"
+    ],
+    "moods": [
+      "elegant",
+      "cool",
+      "retro"
+    ],
+    "likes": 3654,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "arctic-aurora",
+    "name": "Arctic Aurora",
+    "aesthetic": "Polar Glow",
+    "colors": [
+      "#0B1628",
+      "#1B3A5C",
+      "#00FF9F",
+      "#E0F7FF",
+      "#7B2FBE"
+    ],
+    "headingFont": {
+      "family": "Plus Jakarta Sans",
+      "weight": "700",
+      "googleFontsId": "Plus+Jakarta+Sans:wght@700"
+    },
+    "bodyFont": {
+      "family": "Albert Sans",
+      "weight": "400",
+      "googleFontsId": "Albert+Sans:wght@400"
+    },
+    "preview": {
+      "heading": "Northern Light",
+      "body": "Where the sky paints itself in electric wonder."
+    },
+    "tags": [
+      "photography",
+      "brand",
+      "social media"
+    ],
+    "moods": [
+      "cool",
+      "futuristic",
+      "dark"
+    ],
+    "likes": 5432,
+    "createdAt": "2026-02-01",
+    "featured": false
+  }
+]
