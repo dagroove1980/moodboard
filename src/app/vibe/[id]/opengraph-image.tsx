@@ -71,7 +71,7 @@ export default async function OGImage({ params }: { params: Promise<{ id: string
               {vibe.headingFont.family} + {vibe.bodyFont.family}
             </div>
             <div style={{ display: 'flex', fontSize: 18, fontWeight: 700, color: textColor, marginTop: 4 }}>
-              moodboard.supply
+              MoodboardCards
             </div>
           </div>
         </div>

@@ -204,7 +204,7 @@ export default async function VibePage({ params }: Props) {
 
         {/* Share */}
         <section className="mb-16">
-          <ShareButtons url={`${SITE_URL}/vibe/${vibe.id}`} title={`${vibe.name} — ${vibe.aesthetic} | moodboard.supply`} />
+          <ShareButtons url={`${SITE_URL}/vibe/${vibe.id}`} title={`${vibe.name} — ${vibe.aesthetic} | MoodboardCards`} />
         </section>
 
         {/* Ad Slot: Detail Page */}

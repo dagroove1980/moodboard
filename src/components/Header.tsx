@@ -13,10 +13,10 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-0">
             <span className="text-xl font-bold tracking-tight font-[family-name:var(--font-heading)]">
-              moodboard
+              Moodboard
             </span>
             <span className="text-xl font-bold tracking-tight text-[var(--color-accent)]">
-              .supply
+              Cards
             </span>
           </Link>
 

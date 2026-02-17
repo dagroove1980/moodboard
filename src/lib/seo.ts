@@ -12,7 +12,7 @@ export function vibeStructuredData(vibe: Vibe) {
     dateCreated: vibe.createdAt,
     creator: {
       '@type': 'Organization',
-      name: 'moodboard.supply',
+      name: 'MoodboardCards',
     },
   };
 }

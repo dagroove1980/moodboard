@@ -26,20 +26,20 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'moodboard.supply — Curated Aesthetic Kits',
-    template: '%s | moodboard.supply',
+    default: 'MoodboardCards — Curated Aesthetic Kits',
+    template: '%s | MoodboardCards',
   },
   description:
     'Curated aesthetic kits — colors, fonts, and visual direction. All in one card. Browse hundreds of design vibes ready to use.',
   metadataBase: new URL(
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : 'https://moodboard-supply.vercel.app'
+      : 'https://moodboard-cards.com'
   ),
   openGraph: {
     type: 'website',
-    siteName: 'moodboard.supply',
-    title: 'moodboard.supply — Curated Aesthetic Kits',
+    siteName: 'MoodboardCards',
+    title: 'MoodboardCards — Curated Aesthetic Kits',
     description:
       'Curated aesthetic kits — colors, fonts, and visual direction. All in one card.',
   },
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
   },
   verification: {
-    google: 'google27900233ff0bc69b',
+    google: 'google27900233ff0bc69b.html',
   },
 };
 
