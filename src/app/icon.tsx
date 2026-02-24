@@ -3,8 +3,8 @@ import { ImageResponse } from 'next/og';
 export const runtime = 'edge';
 
 export const size = {
-    width: 32,
-    height: 32,
+    width: 48,
+    height: 48,
 };
 export const contentType = 'image/png';
 
@@ -19,7 +19,7 @@ export default function Icon() {
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    fontSize: 20,
+                    fontSize: 28,
                     borderRadius: 0, // Squared for "swatch" look
                     border: '1px solid #d1d5db',
                 }}
